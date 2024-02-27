@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'accounts',
     'poysa',
+    'poysa2'
 ]
 
 AUTH_USER_MODEL="accounts.User"

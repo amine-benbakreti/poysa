@@ -22,4 +22,5 @@ urlpatterns = [
     path('',include('questions.urls')),
     path('user/',include('accounts.urls')),
     path('poysa/',include('poysa.urls')),
+    path('poysa2/',include('poysa2.urls')),
 ]
